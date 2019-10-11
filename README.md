@@ -1,4 +1,4 @@
-# PostMessage_Fuzz_Tool
+# PostMessage_Fuzz_Tool  Chrome app & Extension
 
 ## Installation ##
 
