@@ -3,7 +3,7 @@
 ## Installation ##
 
 1. Install Tampermonkey
-2. Install the TampermonkeyScript from folder
+2. Install the TampermonkeyScript "postmessage-hook.js"
 
 "Enable Developer Mode" by click toggle button in right side.
 
