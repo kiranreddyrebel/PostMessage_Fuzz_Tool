@@ -11,10 +11,10 @@
 
 (function() {
 
-var url = "http://127.0.0.1:8080/logger.html";
+var url = "chrome-extension://mjohdillgacmiggnljlgkhmmnmbpchfp/logger.html";
 
 var id = "appcheck_postmessage_logging_frame";
-var do_not_hook = "http://127.0.0.1:8080/";
+var do_not_hook = "chrome-extension://mjohdillgacmiggnljlgkhmmnmbpchfp/";
 
 (function(funcName, baseObj) {
     funcName = funcName || "docReady";
